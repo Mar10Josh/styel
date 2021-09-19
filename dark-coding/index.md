@@ -26,6 +26,9 @@
             background-color:rgb(66, 66, 66);
         }
       `
+      
+      
+      
    Paste this in a style tag or a css file.
    ## Description
    If you hate the light, and you need to put code in, try this!
