@@ -1,0 +1,22 @@
+       h1 {
+            font-family: 'Gluten', cursive;
+        }
+        p {
+            font-family: 'Roboto', sans-serif;
+            color:white;
+        }
+        li {
+            font-family: 'Roboto', sans-serif;
+            color:white;
+        }
+        button {
+            font-family: 'Roboto', sans-serif;
+            color:rgb(134, 134, 134);
+        }
+        codetext {
+            font-family: 'Roboto Mono', monospace;
+            font-size:18px;
+            color:rgb(125, 125, 255);
+        }
+        body {
+            background-color:rgb(66, 66, 66);
